@@ -1,5 +1,6 @@
 # ETL_Airflow
 Agendando um job para ETL no Airflow,nosso codigo gera um token de acesso, usa para chamar a API e grava os dados de acesso no banco. Esse processo todo é feito em uma DAG com dois passos. 
+
 Essa é a Graph View do nosso codigo:
 
    ![image](https://github.com/gabrielabrag/ETL_Airflow/assets/108342265/f4817fa8-ab6c-479c-abc1-c0bf27187f9b)
