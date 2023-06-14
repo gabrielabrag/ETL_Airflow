@@ -2,7 +2,7 @@
 Agendando um job para ETL no Airflow,nosso codigo gera um token de acesso, usa para chamar a API e grava os dados de acesso no banco. Esse processo todo é feito em uma DAG com dois passos. 
 Essa é a Graph View do nosso codigo:
 
-              ![image](https://github.com/gabrielabrag/ETL_Airflow/assets/108342265/f4817fa8-ab6c-479c-abc1-c0bf27187f9b)
+   ![image](https://github.com/gabrielabrag/ETL_Airflow/assets/108342265/f4817fa8-ab6c-479c-abc1-c0bf27187f9b)
 
 O Apache Airflow é uma ferramenta de código aberto(open-source) que pode ser usada para automatizar os fluxos de trabalho em ETL(Extração, Transformação e Carga de Dados) no setor de ciência de dados. Ele permite criar, monitorar e gerenciar processos de ETL em um sistema centralizado
 
